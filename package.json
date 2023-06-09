@@ -1,0 +1,15 @@
+{
+  "name": "quiz_app_se_project",
+  "version": "1.0.0",
+  "description": "Software Engineering Project for college",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ResponseTime",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22"
+  }
+}
